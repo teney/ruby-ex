@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift, Delivered by Jenkins via Docker.</h1>
+            <h1>Welcome to your Ruby application on OpenShift, Delivered by Jenkins via Docker. Version 0.1 </h1>
           </hgroup>
 
 
